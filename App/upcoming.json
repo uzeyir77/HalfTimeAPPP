@@ -1,0 +1,89 @@
+
+{
+  "upcomingGames": [
+    {
+      "leagueName": "Premier League",
+      "games": [
+        {
+          "gameTime": "2023-11-15T12:00:00",
+          "team1": "Manchester City",
+          "team2": "Manchester United",
+          "team1Image": "sonmanlogo",
+          "team2Image": "manulogo"
+          
+        },
+        {
+          "gameTime": "2023-11-16T15:30:00",
+          "team1": "Liverpool",
+          "team2": "Chelsea FC",
+          "team1Image": "liverpullogo",
+          "team2Image": "chelsealogo"
+          
+        }
+      ]
+    },
+    {
+      "leagueName": "La Liga",
+      "games": [
+        {
+          "gameTime": "2023-11-17T14:00:00",
+          "team1": "Barcelona",
+          "team2": "Getafe",
+          "team1Image": "barcelonalogo",
+          "team2Image": "getafelogo"
+          
+        },
+        {
+          "gameTime": "2023-11-18T17:45:00",
+          "team1": "Real Madrid",
+          "team2": "Atletico Madrid",
+          "team1Image": "realmadridnewlogo",
+          "team2Image": "atleticomadridnewlogo"
+          
+        }
+      ]
+    },
+    {
+      "leagueName": "Süper Lig",
+      "games": [
+        {
+          "gameTime": "2023-11-19T18:00:00",
+          "team1": "Galatasaray",
+          "team2": "Fenerbahçe",
+          "team1Image": "galatasaraynewlogo",
+          "team2Image": "fenerbahcelogo"
+          
+        },
+        {
+          "gameTime": "2023-11-20T20:30:00",
+          "team1": "Beşiktaş",
+          "team2": "Trabzonspor",
+          "team1Image": "besiktaslogo",
+          "team2Image": "trabzonlogo"
+          
+        }
+      ]
+    },
+    {
+      "leagueName": "Bundesliga",
+      "games": [
+        {
+          "gameTime": "2023-11-21T14:30:00",
+          "team1": "Bayern Munich",
+          "team2": "Schalke 04",
+          "team1Image": "bayernlogo",
+          "team2Image": "shalkelogo"
+          
+        },
+        {
+          "gameTime": "2023-11-22T17:00:00",
+          "team1": "Borussia Dortmund",
+          "team2": "Bayer Leverkusen",
+          "team1Image": "borussiadortmundlogo",
+          "team2Image": "bayerleverkusenlogo"
+          
+        }
+      ]
+    }
+  ]
+}

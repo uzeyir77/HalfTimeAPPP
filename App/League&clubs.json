@@ -1,0 +1,94 @@
+
+{
+  "leagues": [
+    {
+      "leagueName": "Premier League",
+      "CountryName": "England",
+      "CountryImage": "englandlogo",
+      "teams": [
+        {
+            "teamName": "Manchester United",
+            "teamImage": "manutd_logo.png"
+            
+        },
+        {"teamName": "Liverpool FC", "teamImage": "liverpool_logo.png"},
+        {"teamName": "Chelsea FC", "teamImage": "chelsea_logo.png"},
+        {"teamName": "Manchester City", "teamImage": "mancity_logo.png"},
+        {"teamName": "Arsenal", "teamImage": "arsenal_logo.png"},
+        {"teamName": "Tottenham Hotspur", "teamImage": "tottenham_logo.png"},
+        {"teamName": "Leicester City", "teamImage": "leicester_logo.png"},
+        {"teamName": "Everton", "teamImage": "everton_logo.png"},
+        {"teamName": "West Ham United", "teamImage": "westham_logo.png"},
+        {"teamName": "Aston Villa", "teamImage": "astonvilla_logo.png"}
+      ]
+    },
+    {
+      "leagueName": "La Liga",
+      "CountryName" : "Spain",
+      "CountryImage" : "spainlogo",
+      "teams": [
+        {"teamName": "Real Madrid", "teamImage": "realmadrid_logo.png"},
+        {"teamName": "Barcelona", "teamImage": "barcelona_logo.png"},
+        {"teamName": "Atletico Madrid", "teamImage": "atletico_logo.png"},
+        {"teamName": "Sevilla", "teamImage": "sevilla_logo.png"},
+        {"teamName": "Villarreal", "teamImage": "villarreal_logo.png"},
+        {"teamName": "Real Sociedad", "teamImage": "realsociedad_logo.png"},
+        {"teamName": "Valencia", "teamImage": "valencia_logo.png"},
+        {"teamName": "Real Betis", "teamImage": "betis_logo.png"},
+        {"teamName": "Athletic Bilbao", "teamImage": "athleticbilbao_logo.png"},
+        {"teamName": "Granada", "teamImage": "granada_logo.png"}
+      ]
+    },
+    {
+      "leagueName": "Süper Lig",
+      "CountryName" : "Turkey",
+      "CountryImage" : "turkiyelogo",
+      "teams": [
+        {"teamName": "Galatasaray", "teamImage": "galatasaray_logo.png"},
+        {"teamName": "Fenerbahçe", "teamImage": "fenerbahce_logo.png"},
+        {"teamName": "Beşiktaş", "teamImage": "besiktas_logo.png"},
+        {"teamName": "Trabzonspor", "teamImage": "trabzonspor_logo.png"},
+        {"teamName": "Başakşehir", "teamImage": "basaksehir_logo.png"},
+        {"teamName": "Konyaspor", "teamImage": "konyaspor_logo.png"},
+        {"teamName": "Antalyaspor", "teamImage": "antalyaspor_logo.png"},
+        {"teamName": "Alanyaspor", "teamImage": "alanyaspor_logo.png"},
+        {"teamName": "Sivasspor", "teamImage": "sivasspor_logo.png"},
+        {"teamName": "Göztepe", "teamImage": "goztepe_logo.png"}
+      ]
+    },
+    {
+      "leagueName": "Bundesliga",
+      "CountryName" : "Germany",
+      "CountryImage" : "almanyalogo",
+      "teams": [
+        {"teamName": "Bayern Munich", "teamImage": "bayern_logo.png"},
+        {"teamName": "Borussia Dortmund", "teamImage": "borussia_logo.png"},
+        {"teamName": "RB Leipzig", "teamImage": "rbleipzig_logo.png"},
+        {"teamName": "Bayer Leverkusen", "teamImage": "leverkusen_logo.png"},
+        {"teamName": "Wolfsburg", "teamImage": "wolfsburg_logo.png"},
+        {"teamName": "Eintracht Frankfurt", "teamImage": "eintracht_logo.png"},
+        {"teamName": "Borussia Mönchengladbach", "teamImage": "monchengladbach_logo.png"},
+        {"teamName": "Stuttgart", "teamImage": "stuttgart_logo.png"},
+        {"teamName": "Freiburg", "teamImage": "freiburg_logo.png"},
+        {"teamName": "Hoffenheim", "teamImage": "hoffenheim_logo.png"}
+      ]
+    },
+    {
+      "leagueName": "Misli Premyer Liqasi",
+      "CountryName" : "Azerbaijan",
+      "CountryImage" : "azerbaycanlogo",
+      "teams": [
+        {"teamName": "Qarabağ", "teamImage": "qarabaglogo"},
+        {"teamName": "Neftçi", "teamImage": "neftcilogo"},
+        {"teamName": "Gabala", "teamImage": "qebelelogo"},
+        {"teamName": "Zira", "teamImage": "ziralogo"},
+        {"teamName": "Sabah", "teamImage": "sabahlogo"},
+        {"teamName": "Sumqayit", "teamImage": "sumgayitlogo"},
+        {"teamName": "Keshla", "teamImage": "keshlalogo"},
+        {"teamName": "Sabail", "teamImage": "sabaillogo"},
+        {"teamName": "Ganja", "teamImage": "ganjalogo"},
+        {"teamName": "Kapaz", "teamImage": "kapazlogo"}
+      ]
+    }
+  ]
+}
